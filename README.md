@@ -1,4 +1,4 @@
-# juego_tres_en_raya_javascript sencillo pero genial y entretenido
+# juego tres en raya javascript sencillo pero genial y entretenido
 
 ![Captura de pantalla 2024-08-02 023756](https://github.com/user-attachments/assets/9b95ed56-1884-417f-9aa1-0b87f4f90bbf)
 
